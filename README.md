@@ -1,3 +1,24 @@
+## 📱 React学習用アプリ
+
+食べ物の名前とPFC（たんぱく質・脂質・炭水化物）を入力すると、**カロリー（Kcal）**を算出して合計を表示するアプリです。  
+アプリ下部には**履歴**が表示され、**編集**や**削除**が行えます。
+
+---
+
+### 🛠 学習内容
+
+- **React**の学習を目的に開発  
+- **デザイン**と**Tailwind CSS**の学習も兼ねています  
+  - デザインとスタイルは**AIのサポート**を受けつつ、**入力エリア**は自力で工夫しました！
+
+---
+
+### 🚀 今後の展望
+
+- **Next.js**を学習後、**バックエンド**を実装して進化版を開発予定！
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
